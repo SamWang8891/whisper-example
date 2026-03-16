@@ -3,8 +3,8 @@
 Example usage of OpenAI whisper, online and local.
 
 ## Files
-local.py -> Run locally
-online.py -> Run using OpenAI API (cost $)
+- local.py -> Run locally
+- online.py -> Run using OpenAI API (cost $)
 
 ## Usage:
 1. Init python env using uv
